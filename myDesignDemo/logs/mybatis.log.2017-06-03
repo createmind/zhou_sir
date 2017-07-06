@@ -1,0 +1,30 @@
+2017-06-03 00:00:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  ------------c3p0连接池链接状态--------------
+2017-06-03 00:00:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 总共 】 连接数量：1
+2017-06-03 00:00:21 [ com.zyl.listener.LoginLister:Timer-1 ] -[ INFO ]  --------当前在线人数: 1--------
+2017-06-03 00:00:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【  忙  】 连接数量：0
+2017-06-03 00:00:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 空闲 】 连接数量：1
+2017-06-03 00:00:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【未关闭】 连接数量：0
+2017-06-03 00:00:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  ------------c3p0连接池链接状态--------------
+2017-06-03 00:00:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 总共 】 连接数量：1
+2017-06-03 00:00:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【  忙  】 连接数量：0
+2017-06-03 00:00:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 空闲 】 连接数量：1
+2017-06-03 00:00:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【未关闭】 连接数量：0
+2017-06-03 00:00:51 [ com.zyl.listener.LoginLister:Timer-1 ] -[ INFO ]  --------当前在线人数: 1--------
+2017-06-03 00:01:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  ------------c3p0连接池链接状态--------------
+2017-06-03 00:01:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 总共 】 连接数量：1
+2017-06-03 00:01:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【  忙  】 连接数量：0
+2017-06-03 00:01:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 空闲 】 连接数量：1
+2017-06-03 00:01:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【未关闭】 连接数量：0
+2017-06-03 00:01:21 [ com.zyl.listener.LoginLister:Timer-1 ] -[ INFO ]  --------当前在线人数: 1--------
+2017-06-03 00:01:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  ------------c3p0连接池链接状态--------------
+2017-06-03 00:01:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 总共 】 连接数量：1
+2017-06-03 00:01:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【  忙  】 连接数量：0
+2017-06-03 00:01:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 空闲 】 连接数量：1
+2017-06-03 00:01:51 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【未关闭】 连接数量：0
+2017-06-03 00:01:51 [ com.zyl.listener.LoginLister:Timer-1 ] -[ INFO ]  --------当前在线人数: 1--------
+2017-06-03 00:02:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  ------------c3p0连接池链接状态--------------
+2017-06-03 00:02:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 总共 】 连接数量：1
+2017-06-03 00:02:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【  忙  】 连接数量：0
+2017-06-03 00:02:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【 空闲 】 连接数量：1
+2017-06-03 00:02:21 [ com.zyl.datasource.C3p0DataSource:Timer-0 ] -[ INFO ]  c3p0连接池中 【未关闭】 连接数量：0
+2017-06-03 00:02:21 [ com.zyl.listener.LoginLister:Timer-1 ] -[ INFO ]  --------当前在线人数: 1--------

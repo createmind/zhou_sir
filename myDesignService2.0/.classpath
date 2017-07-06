@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/gson-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-http-9.3.3.v20150827.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-io-9.3.3.v20150827.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-security-9.3.3.v20150827.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-server-9.3.3.v20150827.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-servlet-9.3.3.v20150827.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-9.3.3.v20150827.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-api-9.3.3.v20150827.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/myDesignBaseMoel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/myDesignDataSource"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/myDesignJdbc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/myDesignMessage"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/myDesignUtil"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

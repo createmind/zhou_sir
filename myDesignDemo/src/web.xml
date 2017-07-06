@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+	<service>
+		<port>8081</port>
+		<!-- <servlet></servlet> -->
+		<bean>/com/zyl/entity/bean.xml</bean>
+		<bean>/com/zyl/entity/demo.xml</bean>
+		<url>/com/zyl/config</url>
+		<servicePath>d:\\</servicePath>
+	</service>
+	
+	<filters>
+		<filter>
+			<filter-name>CacheFilter</filter-name>
+		    <filter-class>com.zyl.cache.filter.CacheFilter</filter-class>
+			<filter-path>/*</filter-path>
+		</filter>
+	</filters>
+	
+	<interceptions>
+		<interception>
+			<interception-name>NeedLogin</interception-name>
+			<interception-class>com.zyl.Interception.NeedLogin</interception-class>
+		</interception>
+	</interceptions>
+	
+	<listeners>
+		<listener>
+			<listener-name>LoginLister</listener-name>
+			<listener-class>com.zyl.listener.LoginLister</listener-class>
+			<listener-path>/Manager/login.json</listener-path>
+		</listener>
+		<listener>
+			<listener-name>LoginOutLister</listener-name>
+			<listener-class>com.zyl.listener.LoginOutLister</listener-class>
+			<listener-path>/Manager/loginOut.json</listener-path>
+		</listener>
+	</listeners>
+	
+	<!-- 
+	<rules> 
+		<rule>
+			<rule-name></rule-name>
+			<rule-class></rule-class>
+		</rule>
+	</rules>
+	-->
+</web-app>
